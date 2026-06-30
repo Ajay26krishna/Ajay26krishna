@@ -2,41 +2,69 @@
 
 I am an M.S. Computer Science student and Research Assistant at Penn State University, graduating in August 2026.
 
-My work sits at the intersection of machine learning, software engineering, optimization, and computer systems. I enjoy building practical AI systems, implementing efficient software, and using data-driven methods to solve complex engineering problems.
+I am interested in machine learning, reinforcement learning, software engineering, and computer systems. My projects range from deep learning and language-model experiments to operating-system components implemented in C.
 
-## 🔬 Current Work
+## About Me
 
-* Developing reinforcement learning methods for fast, constraint-aware 2.5D chiplet placement
-* Exploring oscillator-based Ising-machine methods for combinatorial optimization
-* Building machine learning pipelines that integrate simulation, optimization, and system-level evaluation
-* Working with graph neural networks, reinforcement learning, and hardware-aware AI methods
+* Building projects across AI/ML, reinforcement learning, and systems programming
+* Experienced with Python, C, C++, Java, SQL, PyTorch, TensorFlow, and Linux
+* Interested in developing practical, reliable, and efficient software systems
+* Actively seeking full-time ML Engineer, AI Engineer, and Software Engineer roles
 
-## 💻 Technical Skills
+## Featured Projects
 
-**Languages:** Python, C, C++, Java, SQL
-**AI/ML:** PyTorch, TensorFlow, Reinforcement Learning, Graph Neural Networks, Deep Learning, Computer Vision
-**Systems:** Linux, Multithreading, Scheduling, Memory Management, Computer Architecture
-**Tools:** Git, NumPy, Pandas, OpenCV, Streamlit, ScaleSim
+### [DistilGPT2 Reinforcement Learning Experiments](https://github.com/Ajay26krishna/DistilGPT2)
 
-## 🚀 Selected Work
+Explored reinforcement-learning-based training and evaluation workflows for DistilGPT2 using PPO- and GRPO-style approaches, including adversarial and exact-match evaluation scripts.
 
-### RL-Based 2.5D Chiplet Placement
+**Technologies:** Python, PyTorch, Transformers, Reinforcement Learning
 
-Developed a reinforcement learning workflow for thermal- and wirelength-aware chiplet placement using imitation learning, PPO, routing optimization, and thermal simulation.
+### [CartPole Deep Q-Learning Agent](https://github.com/Ajay26krishna/Cartpole)
 
-### Oscillator-Based Ising Optimization
+Implemented and evaluated a Deep Q-Network agent for the CartPole-v1 environment, including baseline and target-network variants, trained model weights, and evaluation results.
 
-Researching scalable methods for solving combinatorial optimization problems using oscillator-based Ising-machine models and graph-learning techniques.
+**Technologies:** Python, PyTorch, Reinforcement Learning, Gymnasium
 
-### Preemptive Thread Scheduler
+### [Preemptive Thread Scheduler](https://github.com/Ajay26krishna/Thread-Scheduler)
 
-Implemented FCFS, SRTF, and MLFQ scheduling in C with preemption, I/O blocking, priority boosting, and deterministic edge-case handling.
+Implemented FCFS, SRTF, and multilevel feedback queue scheduling policies in C with preemption, I/O blocking, semaphore operations, and deterministic scheduling behavior.
 
-### 3D Human Pose Forecasting
+**Technologies:** C, Linux, CPU Scheduling, Semaphores
 
-Developed GRU- and Transformer-based models to forecast 3D human pose sequences using SMPL and VPoser representations.
+### [Memory Allocator](https://github.com/Ajay26krishna/Memory-Allocator)
 
-## 🎯 Opportunities
+Implemented memory allocation and deallocation mechanisms in C, including memory-block management, allocation policies, and request handling.
+
+**Technologies:** C, Linux, Memory Management, Make
+
+### [Virtual Memory Manager](https://github.com/Ajay26krishna/Virtual-Memory-Manager)
+
+Implemented a virtual memory manager that performs paging and address-translation operations.
+
+**Technologies:** C, Shell, Paging, Virtual Memory
+
+### [3D Human Pose Forecasting](https://github.com/Ajay26krishna/Human-bosy-poser-predictor)
+
+Developed sequence models for forecasting future 3D human poses using SMPL and VPoser representations, with GRU- and Transformer-based approaches and pose-specific evaluation metrics.
+
+**Technologies:** Python, PyTorch, Deep Learning, Sequence Modeling
+
+## Additional Machine Learning Projects
+
+* [Skin Cancer Detection Using Hybrid Deep Learning](https://github.com/Ajay26krishna/Skin-Cancer-Detection-Using-hybrid-Deep-Learning)
+* [Image Classification Using MobileNet](https://github.com/Ajay26krishna/Intern-Major-project-image-classification-using-mobileNet)
+* [Handwritten Digit Recognition Using ANN](https://github.com/Ajay26krishna/Intern-Digit-Recognizer-Using-ANN)
+* [Denial-of-Service Attack Classification](https://github.com/Ajay26krishna/Classifying-Denial-of-Service-attacks-from-Normal-requests-using-Machine-learning)
+* [Eye Disease Detection Using CNN](https://github.com/Ajay26krishna/Eye-Diesease-detection-using-CNN)
+
+## Technical Skills
+
+**Programming:** Python, C, C++, Java, SQL
+**AI/ML:** PyTorch, TensorFlow, Deep Learning, Reinforcement Learning, Transformers, Computer Vision
+**Systems:** Linux, CPU Scheduling, Memory Management, Multithreading, Computer Architecture
+**Tools:** Git, NumPy, Pandas, OpenCV, Streamlit, Jupyter Notebook
+
+## Opportunities
 
 I am actively seeking full-time opportunities in:
 
@@ -44,12 +72,12 @@ I am actively seeking full-time opportunities in:
 * AI Engineering
 * Software Engineering
 * ML Systems
-* Optimization and intelligent systems
+* Systems and performance engineering
 
 Available after completing my M.S. degree in August 2026.
 
-## 📫 Connect With Me
+## Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/ajay-krishna-devulapally/)
-* [Portfolio](https://ajaykrishnadevulapally.github.io/)
+* [Portfolio](https://ajay26krishna.github.io/)
 * [Email](mailto:ajaykrishnadevulapally@gmail.com)
